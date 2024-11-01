@@ -1,0 +1,20 @@
+span.summary_score { font-size: 40px;}
+.notsummary span.summary_score { font-size: 30px;}
+span.red { color: red;}
+span.blue { color: blue;}
+span.orange { color:orange;}
+span.green { color: green;}
+td.center, th.center { text-align:center}
+thead tr th.important { background-color:#cdcdcd;}
+table.toplevel_page_template-seo-checker thead tr th.column-url { width: 40%}
+table.toplevel_page_template-seo-checker thead tr th.column-date { width: 20%;}
+table.toplevel_page_template-seo-checker thead tr th.column-score { width: 20%;}
+table.toplevel_page_template-seo-checker thead tr th.column-improvement { width: 12%; text-align: center;}
+table.toplevel_page_template-seo-checker thead tr th.column-actions { width: 8%;}
+table.toplevel_page_template-seo-checker tfoot tr th.column-improvement {text-align: center;}
+table.toplevel_page_template-seo-checker tfoot tr th.column-actions {text-align: right;}
+table.toplevel_page_template-seo-checker tbody tr td.column-improvement {text-align: center;}
+table.toplevel_page_template-seo-checker tbody tr td.column-actions {text-align: right;}
+
+#tscDetails { overflow-y: auto;}
+.foto-author { float:left; margin: 0; margin-right:10px; padding: 0; border-radius: 10px;}

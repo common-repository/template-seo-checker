@@ -1,0 +1,855 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Template SEO Checker\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-22 11:42+0100\n"
+"PO-Revision-Date: 2014-04-22 11:42+0100\n"
+"Last-Translator: \n"
+"Language-Team: Jonatan Jumbert <jonatanjumbert@jonatanjumbertcom>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-SearchPath-0: D:\\dropbox\\wordpressplugins\\wp-content\\plugins\\template-seo-checker\n"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/index.php:72
+msgid "<strong>Template SEO Checker</strong> need <a href=\"http://se1.php.net/manual/en/book.curl.php\" target=\"_blank\">CURL library</a> to work."
+msgstr "<strong>Template SEO Checker</strong> necesita la <a href=\"http://se1.php.net/manual/es/book.curl.php\" target=\"_blank\">librería CURL</a> para funcionar."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/index.php:173
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:8
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:32
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:135
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:170
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:287
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:356
+msgid "Template SEO Checker"
+msgstr "Template SEO Checker"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/index.php:176
+msgid "Robots"
+msgstr "Robots"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/index.php:177
+msgid "Inline styles"
+msgstr "Estilos en línea"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/index.php:178
+msgid "Responsive ready"
+msgstr "Web responisbe (diseño adaptable)"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/index.php:179
+msgid "Headings evaluation"
+msgstr "Evaluación de las cabeceras"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/index.php:180
+msgid "Images size"
+msgstr "Tamaño de las imágenes"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/index.php:181
+msgid "Number of CSS"
+msgstr "Número de ficheros CSS"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/index.php:182
+msgid "Number of JS"
+msgstr "Número de ficheros JS"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/index.php:183
+msgid "Title"
+msgstr "Título"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/index.php:184
+msgid "Description"
+msgstr "Descripción"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/index.php:185
+msgid "CSS size"
+msgstr "Tamaño de los CSS"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/index.php:186
+msgid "JS size"
+msgstr "Tamaño de los CSS"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/index.php:187
+msgid "Links without title"
+msgstr "Enlaces sin el atributo title"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/index.php:188
+msgid "Images without alt"
+msgstr "Imágenes sin el atributo alt"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/index.php:189
+msgid "DOM elements"
+msgstr "Número de elementos del DOM"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/index.php:190
+msgid "HTML5 ready"
+msgstr "Plantilla lista para HTML5"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/index.php:191
+msgid "Images without height and width"
+msgstr "Imágenes sin especificar medidas"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/index.php:192
+msgid "CSS for print"
+msgstr "CSS para impresión"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:8
+msgid "FAQ"
+msgstr "FAQ"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:11
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:138
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:287
+msgid "Summary"
+msgstr "Resumen"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:21
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:148
+msgid "FAQ: Frequent Asked Questions"
+msgstr "FAQ: Preguntas Frecuentes"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:32
+msgid "Frequent Asked Questions"
+msgstr "Preguntas Frecuentes"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:32
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:287
+msgid "Is your Wordpress Template good enough for SEO?"
+msgstr "¿Esta tu plantilla de Wordpress optimizada para SEO?"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:39
+msgid "Why is important that my wordpress template is SEO ready?"
+msgstr "¿Porqué es importante tener una plantilla de Wordpress optimizada para SEO?"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:40
+msgid "If you have been installed this plugin, it is possible that you already know the answer. There are two big areas in the <abbr title=\"Search Engine Optimization\">SEO</abbr> world, the <abbr title=\"Search Engine Optimization\">SEO</abbr> Off page (link building, social media, domain authority...) and <abbr title=\"Search Engine Optimization\">SEO</abbr> On page (website faster, optimized, HTML5 ready, with rich snippets, etc). <br /><br />This plugin, tries to help you to optimize your <abbr title=\"Search Engine Optimization\">SEO</abbr> On page by telling you which things you could change in order to improve your ranking at <abbr title=\"Search Engine Result Pages\">SERP</abbr>. Because you should never forget that if your website ranks better than other, more visits you will have and more money will you earn. (because all this is about the money, isn't it?)"
+msgstr "Si has instalado tú mismo este plugin, muy probablemente sepas la respuesta. En <abbr title=\"Search Engine Optimization\">SEO</abbr> hay dos grandes areas de optimización, el <abbr title=\"Search Engine Optimization\">SEO</abbr> Off page (Construcción de enlaces, redes sociales, autoridad del dominio, etc.) y el <abbr title=\"Search Engine Optimization\">SEO</abbr> On page (tener una web rápida, optimizada, desarrollado con HTML5, implementación de Rich Snippets, etc.)<br /><br />Este plugin, te ayudará a optimizar tu <abbr title=\"Search Engine Optimization\">SEO</abbr> On page, diciéndote las cosas que podrías cambiar para mejorar tu posición en el ranking de las páginas de resultados de los buscadores. Nunca debes olvidar que si un sitio web posiciona mejor que otro, obtendrá más visitas y muy probablemente generará más dinero. (¿Porque todo se basa en ganar dinero, no?)"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:45
+msgid "Can you explain me in more deep every SEO factor?"
+msgstr "¿Podrías explicar con más detalle cada factor <abbr title=\"Search Engine Optimization\">SEO</abbr>?"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:46
+msgid "Sure, let's see..."
+msgstr "¡Claro que si! Vamos al lío..."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:48
+msgid "The most important factor that plugin check is <strong>meta name=\"robots\"</strong>. If your theme has it enabled and current value is <strong>\"noindex\"</strong> your URL score will be <strong>0/100</strong>, because you are telling Google's robot and robots from other search engines that you don't want that your url will be indexed on Search Engines, so... your theme is not <abbr title=\"Search Engine Optimization\">SEO</abbr> friendly."
+msgstr "El factor <abbr title=\"Search Engine Optimization\">SEO</abbr> más importante que comprueba este plugin es la etiqueta <strong>meta name=\"robots\"</strong>. Si tu template la tiene en su código fuente y su valor es <strong>\"noindex\"</strong> la puntuación <abbr title=\"Search Engine Optimization\">SEO</abbr> de esa URL será de <strong>0/100</strong>, porqué le estarás diciendo al robot de Google y otros robots de otros buscadores que no quieres que esta URL sea indexada (aparezca) en las páginas de resultados de los buscadores, así... que tu plantilla no estará para nada optimizada para <abbr title=\"Search Engine Optimization\">SEO</abbr>."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:49
+msgid "Next factor is determine if your theme uses <strong>inline styles</strong>. Why you should avoid inline styles? First because <strong>it's a bad practice</strong> speaking in terms of web development (you should use external <abbr title=\"Cascading Style Sheets\">CSS</abbr>). Second because your code will be dirty and the final size of current URL will be higher, and this affects <abbr title=\"Search Engine Optimization\">SEO</abbr> in terms of <abbr title=\"Web Performance Optimization\">WPO</abbr>. Sites who load faster than other will be rank better in <abbr title=\"Search Engine Result Pages\">SERP</abbr> (<strong>page speed its an important factor on Google search engine algorithm</strong>)."
+msgstr "El siguiente factor es comprobar si tu plantilla hace uso de <strong>estilos en línea</strong>. ¿Porqué debería evitar el uso de estilos en línea? Primero de todo <strong>porqué es una mala práctica</strong> hablando en términos de desarrollo web (deberías hacer uso de <abbr title=\"Cascading Style Sheets\">CSS</abbr> externos). En segundo lugar, porqué estarás ensuciando el código fuente de tú página y haciendo que el tamaño final en Kb de esta URL sea mayor, cosa que afecta al <abbr title=\"Search Engine Optimization\">SEO</abbr> en termas de <abbr title=\"Web Performance Optimization\">WPO</abbr>. Por norma general, sitios que cargan más rápido que otros, posicionan mejor en las <abbr title=\"Search Engine Result Pages\">SERP</abbr> (<strong>la velocidad de carga es un factor importante del algoritmo de búsqueda de Google</strong>)."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:50
+msgid "Be <strong>responsive ready</strong> is next factor I will check in your themes. A responsive site is better than others no responsive or others who serves same content in different URL in terms of <abbr title=\"Search Engine Optimization\">SEO</abbr>. In fact, if you use a different domain or subdomain for mobile users like mobile.domain.com or something like that you probably will be penalized by Google Panda update, so be carefully."
+msgstr "Tener una plantilla <strong>responsive o de diseño adaptable</strong> es el siguiente factor que tendremos en cuenta. Un sitio web responsive es mejor que aquellos que no lo son o aquellos que sirven el mismo contenido desde diferentes URLS (hablando siempre en términos de <abbr title=\"Search Engine Optimization\">SEO</abbr>). De hecho, si usas un dominio diferente o un subdominio para los usuarios que accedan a tu web desde dispositivos móviles como m.dominio.com o algo parecido, muy probablemente seas penalizado para la actualización del algoritmo de Google Panda, así que ándate con ojo."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:51
+msgid "<strong>Headings evalutation</strong>. Do you know that exist <abbr title=\"HyperText Markup Language\">HTML</abbr> tags like &lt;h1&gt;, &lt;h2&gt;, &lt;h3&gt;, &lt;h4&gt;, &lt;h5&gt; and &lt;h6&gt;? And these tags are used to tell search engines what is your page talking about? You should use them with wisdom. Every page should have a different &lt;h1&gt;. Heading tags are used to define the headings in your page."
+msgstr "<strong>Evaluación de etiquetas de cabecera</strong>. ¿Sabes que existen etiquetas <abbr title=\"HyperText Markup Language\">HTML</abbr> cómo &lt;h1&gt;, &lt;h2&gt;, &lt;h3&gt;, &lt;h4&gt;, &lt;h5&gt; and &lt;h6&gt; y que se utilizan para decirle a los buscadores sobre que trata tu página? Debes usar estas etiquetas con sabiduría. Cada página debe tener un único &lt;h1&gt;. Las etiquetas de cabecera definen los encabezados (títulos y subtítulos) de tu página."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:52
+msgid "The <strong>size in Kb of images used in your theme is important</strong> in terms of <abbr title=\"Web Performance Optimization\">WPO</abbr> (page speed). If your site includes a lot of pics you should try to optimize those pics to do your page load faster."
+msgstr "El <strong>tamaño en Kb que pesan las imágenes usadas en tu plantilla también es muy importante</strong> para la optimización del rendimiento de tu web (<abbr title=\"Web Performance Optimization\">WPO</abbr> o velocidad de carga). Si tu página incluye muchas imágenes deberás tratar que estas estén optimizadas y que ocupen lo mínimo necesario para que tu página cargue lo más rápido posible."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:53
+msgid "If your theme uses a lot of <abbr title=\"Cascading Style Sheets\">CSS</abbr> files you should try to unify all in just one or two external <abbr title=\"Cascading Style Sheets\">CSS</abbr>. This is important because a <strong>fewer number of <abbr title=\"Cascading Style Sheets\">CSS</abbr> can be loaded with fewer server requests</strong>. This will help to make your site load faster."
+msgstr "Si tu plantilla usa muchos ficheros <abbr title=\"Cascading Style Sheets\">CSS</abbr> deberás tratar de unificarlos todos en uno o un par de ficheros. Esto es importante porqué así <strong>conseguirás un número inferior de peticiones al servidor</strong>. Esto ayudará a hacer que tu sitio o página web cargue mucho más rápido."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:54
+msgid "Same as happen with number of <abbr title=\"Cascading Style Sheets\">CSS</abbr> applies to <strong>number of JS</strong> that your theme is using. Try to unify all of them in just on file and include them at the bottom of the <abbr title=\"HyperText Markup Language\">HTML</abbr> code, before &lt;/body&gt; tag."
+msgstr "Lo mismo que ocurre con el número de ficheros <abbr title=\"Cascading Style Sheets\">CSS</abbr> aplica al <strong>número de ficheros JS</strong> que tu plantilla está usando. Intenta unificarlos todos ellos en único fichero e incluirlo al final del código <abbr title=\"HyperText Markup Language\">HTML</abbr> justo antes de la etiqueta de cierre &lt;/body&gt;."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:55
+msgid "All your URLs should have <strong>a different title tag</strong>. &lt;title&gt; tag is defined at head section of your  <abbr title=\"HyperText Markup Language\">HTML</abbr> code and it's important because besides telling search engines what is talking about your page, this title is displayed as snippet in <abbr title=\"Search Engine Result Pages\">SERP</abbr>."
+msgstr "Todas tus páginas deben tener un <strong>título único</strong>. La etiqueta &lt;title&gt; se define en la sección head de tú código <abbr title=\"HyperText Markup Language\">HTML</abbr> y es importante porqué además de decirle a los buscadores sobre que habla tu página, es el título que se muestra como snippet en las <abbr title=\"Search Engine Result Pages\">SERP</abbr>."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:56
+msgid "Your template should also have a <strong>description</strong> meta tag. This description is displayed in same snippet like title. And its important because tells users what they will find if they click on your result."
+msgstr "Tu plantilla también debe tener un meta tag <strong>description</strong>. Esta descripción se muestra en el mismo snippet que el título y es importante porqué le dice a los usuarios lo que encontrarán si hacen click en el resultado de busqueda cuando accedan a tu página."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:57
+msgid "I talked before about the importance of reduce your image files size, and now its time to <strong>reduce the size in Kb of your <abbr title=\"Cascading Style Sheets\">css</abbr> files</strong>. You should only include necessary styles for your current theme if you want to be faster than your competitors."
+msgstr "Anteriormente he hablado de la importancia de reducir el tamaño de las imágenes y ahora es el momento de <strong>reducir el tamaño en Kb de tus archivos <abbr title=\"Cascading Style Sheets\">css</abbr></strong>. Únicamente deberías incluir los estilos necesarios para la plantilla actual si quieres que tu página cargue tan rápida cómo la de tu competencia."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:58
+msgid "The same applies to your <strong>javascript files size</strong>. You should reduce it as far as you can to <strong>improve your page load speed</strong>."
+msgstr "Lo mismo aplica al <strong>tamaño de los archivos javascript</strong>. Deberás reducirlos tanto como puedas para <strong>mejorar el tiempo de carga de tu plantilla</strong>."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:59
+msgid "Another important point that you may take a look is if <strong>all your links have a comprehensive and detailed title attribute</strong>. This attribute indicates to google bot and users what they will find if they click this link. It would be nice if you take the advantage to put your main keywords there."
+msgstr "Otro punto importante que hay que tener en cuenta es si <strong>todos tus enlaces tienen el atributo title y si este ofrece una descripción detallada</strong>. Este atributo le indica al roboto de Google y a los usuarios lo que encontrarán después de hacer click en el enlace. Estaría bien que te adelantaras y colocaras aquí alguna de tus keywords."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:60
+msgid "Same as title attribute for links applies to alt attribute for images. You should never forget put <strong>a comprenhensive and detailed description of current image on alt attribute</strong>."
+msgstr "Lo mismo que el atributo title de los enlaces aplica al atributo alt para las imágenes. No deberías olvidar nunca <strong>implementar el atributo alt para todas las imágenes</strong> así mejorarás el <abbr title=\"Search Engine Optimization\">SEO</abbr> de tu página y probablemente aparezcas en búsquedas de imágenes."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:61
+msgid "<strong>The number of <abbr title=\"Document Object Model\">DOM</abbr></strong> elements is also important to determine your <abbr title=\"Search Engine Optimization\">SEO</abbr> On page. Generally a lower number indicates your template is better (but this depends on how many news, articles or how much content you include on every page)."
+msgstr "<strong>El número de elementos del <abbr title=\"Document Object Model\">DOM</abbr></strong> también es importante para determinar tu <abbr title=\"Search Engine Optimization\">SEO</abbr> On page. Generalmente un número inferior indica que tu plantilla es mejor (aunque depende de cuantas noticias, artículos o la cantidad de contenido que incluyas en cada página)."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:62
+msgid "Having <strong>a template ready form HTML5</strong> is an advantage. Nowadays the major number of modern browsers supports HTML5, this technology will help you to define your <strong>semantic layout</strong>. Thanks to this semantic, search engines can read better your content,"
+msgstr "Tener un <strong>plantilla lista para HTML5</strong> es una ventaja. Hoy en día casi todos los navegadores modernos soportan HTML5. Esta tecnología te ayudará a definir <strong>una estructura semántica</strong> para tu página y gracias a esta semántica, los buscadores serán capaces de leer mejor tu contenido."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:63
+msgid "In <abbr title=\"HyperText Markup Language\">HTML</abbr> language you can even <strong>specify the width and height of your images using attributes (height and width)</strong>. If you do, your browser will load faster your page because it won't need wait to load every image to know how to fit it at browser screen. The user experience (UX) will be improved, the bounce rate reduced and the <abbr title=\"Search Engine Optimization\">SEO</abbr> on page better than ever."
+msgstr "En <abbr title=\"HyperText Markup Language\">HTML</abbr> incluso puedes <strong>especificar el ancho y alto de tus imágenes con los atributos height y with de la etiqueta img.</strong>. Si lo haces, ayudarás al navegador a cargar más rápido tu página porqué así no será necesario a que este espere a cargar todas las imágenes para saber como encajarlas en la pantalla. La experiencia del usuario (UX) se verá mejorada, bajando así muy probablemente la tasa de rebote y al fin y al cabo mejorando el <abbr title=\"Search Engine Optimization\">SEO</abbr> on page."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:64
+msgid "Finally it will be nice if your template will include a <strong><abbr title=\"Cascading Style Sheets\">CSS</abbr> version for printing</strong>."
+msgstr "Finalmente estaría muy bien que tu plantilla incluyera <strong>una versión de <abbr title=\"Cascading Style Sheets\">CSS</abbr> exclusiva para imprimir</strong>."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:66
+msgid "Will you include more SEO factors in future release?"
+msgstr "¿Incluirás más factores SEO en una próxima versión del plugin?"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:66
+msgid "I want to check my tags, categories, author and other pages"
+msgstr "Quiero comprobar las urls de categorías, etiquetas, autor y otras páginas"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:67
+msgid "Actually <strong>Template SEO Checker</strong> checks about 17 factors to determine if your theme is <abbr title=\"Search Engine Optimization\">SEO</abbr> friendly or not. In future releases more factors will be added and most kind of wordpress pages like (author, category, tag, error404, search, etc.) can be checked.<br />Depending on the success of this plugin (people using it), comments and donations received <strong>Template <abbr title=\"Search Engine Optimization\">SEO</abbr> will be improved</strong>."
+msgstr "Actualmente, el plugin <strong>Template SEO Checker</strong> comprueba 17 factores seo para determinar si tu plantilla está bien optimizada para <abbr title=\"Search Engine Optimization\">SEO</abbr> o no. En próximas versiones se añadirán nuevos factores y además se añadirá la posibilidad de comprobar otras páginas de tu plantilla como páginas de autor, de categorías, etiquetas, etc.<br />Dependiendo del éxito del plugin (personas que lo usen), comentarios recibidos así como las donaciones de la gente <strong>el plugin <strong>Template <abbr title=\"Search Engine Optimization\">SEO</abbr> Checker será actualizado</strong>."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:68
+msgid "How can I thank you all your efforts?"
+msgstr "¿Como te puedo agradecer todo tu esfuerzo?"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:69
+msgid "You can donate between $1,00 to $10,00 if you enjoyed this plugin. More options will be included on future releases."
+msgstr "Puedes donar entre 1 y 10&euro; si te ha sido de utilidad el plugin y quieres que se siga dando soporte en futuras versiones."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:74
+msgid "How you determine final score?"
+msgstr "¿Como se determina la puntuación final?"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:75
+msgid "Based on my experience of <abbr title=\"Search Engine Optimization\">SEO</abbr> manager I developed an algorithm who scraps your theme and check every factor defined in the plugin to know if your template is <abbr title=\"Search Engine Optimization\">SEO</abbr> friendly. Then, foreach factor your theme gets an score and the sum of all of them determines the current URL score."
+msgstr "Basándome en mi experiencia cómo <abbr title=\"Search Engine Optimization\">SEO</abbr> manager he desarrollado un algoritmo que escanea el contenido de tu plantilla y comprueba cada factor definido en el plugin para saber si tu plantilla está bien optimizada para <abbr title=\"Search Engine Optimization\">SEO</abbr> o no. Entonces, para cada uno de ellos tu plantilla obtiene una puntuación, donde la suma determina finalmente la puntuación final de cada página."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:80
+msgid "What should I do if my wordpress template had a lower score?"
+msgstr "¿Qué debería hacer si mi plantilla de Wordpress tiene una puntuación baja en SEO?"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:81
+msgid "If you don't care about <abbr title=\"Search Engine Optimization\">SEO</abbr>, don't do anything. If you care about <abbr title=\"Search Engine Optimization\">SEO</abbr> and you don't mind about your design you can try another wordpress theme. If you really like your current theme, you can try to fix the errors manually. And if you don't have the knowledge to fix the errors manually <strong>you can try to hire me</strong>."
+msgstr "Si te da absolutamente igual el <abbr title=\"Search Engine Optimization\">SEO</abbr>, no hagas nada. Si te importa lo suficiente el <abbr title=\"Search Engine Optimization\">SEO</abbr> y no te importa el diseño actual de tu web puedes probar otro tema de wordpress. Y si te gusta tu diseño actual puedes tratar de resolver manualmente los errores. Si no tienes el conocimiento adecuado para corregir estos errores manualmente siempre puedes <strong>tratar de contratarme</strong>."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:86
+msgid "Can I hire you to check and fix my wordpress site to be ready for <abbr title=\"Search Engine Optimization\">SEO</abbr>?"
+msgstr "¿Puedo contratarte para comprobar y corregir la plantilla de mi web para optimiarla para <abbr title=\"Search Engine Optimization\">SEO</abbr>?"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:87
+msgid "<strong>Of course!</strong> You can contact me anytime writing me or following on <a href=\"https://plus.google.com/+JonatanJumbert\" title=\"View Jonatan Jumbert's Google+ profile\">Google+</a>, <a href=\"http://twitter.com/jonatanjumbert\" title=\"View Jonatan Jumbert's Twitter profile\">Twitter</a>, <a href=\"http://www.linkedin.com/pub/jonatan-jumbert-avil%C3%A9s/14/540/443\" title=\"View Jonatan Jumbert's Linkedin profile\">Linkedin</a>, <a href=\"https://www.facebook.com/jonatan.jumbert\" title=\"View Jonatan Jumbert's Facebook profile\">Facebook</a> or in <a href=\"http://jonatanjumbert.com/blog/?utm_source=Wordpress&utm_medium=Plugin&utm_term=Template%20SEO%20Checker&utm_campaign=Wordpress%20plugins\" title=\"View Jonatan Jumbert's personal blog\">my personal site</a>. Tell me about you and your site and let's see if we come to an agreement."
+msgstr "<strong>¡Pues claro!</strong> Puedes contactar conmigo en cualquier momento escribiéndome o siguiéndome en <a href=\"https://plus.google.com/+JonatanJumbert\" title=\"Ver el perfil en Google+ de Jonatan Jumbert\">Google+</a>, <a href=\"http://twitter.com/jonatanjumbert\" title=\"Ver el perfil en Twitter de Jonatan Jumbert\">Twitter</a>, <a href=\"http://www.linkedin.com/pub/jonatan-jumbert-avil%C3%A9s/14/540/443\" title=\"Ver el perfil en Linkedin de Jonatan Jumbert\">Linkedin</a>, <a href=\"https://www.facebook.com/jonatan.jumbert\" title=\"Ver el perfil en Facebook de Jonatan Jumbert\">Facebook</a> o en <a href=\"http://jonatanjumbert.com/blog/?utm_source=Wordpress&utm_medium=Plugin&utm_term=Template%20SEO%20Checker&utm_campaign=Wordpress%20plugins\" title=\"Ver el blog de Jonatan Jumbert\">mi página web personal</a>. Cuéntame sobre ti y tu proyecto y veamos si podemos llegar a un acuerdo."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:118
+msgid "<strong>Template SEO Checker</strong> have been updated your theme score."
+msgstr "<strong>Template SEO Checker</strong> ha actualizado la puntuación SEO de tu plantilla."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:122
+msgid "<strong>Template SEO Checker</strong> have been updated your homepage SEO score."
+msgstr "<strong>Template SEO Checker</strong> ha actualizado la puntuación SEO de la página principal."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:130
+msgid "<strong>Template SEO Checker</strong> have been updated your current URL SEO score."
+msgstr "<strong>Template SEO Checker</strong> ha actualizado la puntuación SEO de la URL analizada."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:173
+msgid "This action can take several seconds. Are you sure you want to continue?"
+msgstr "Esta acción puede tardar varios segundos dependiendo de la velocidad de tu servidor y el tamaño de la URL a analizar. ¿Deseas continuar?"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:177
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:466
+msgid "Close"
+msgstr "Cerrar"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:178
+msgid "Continue"
+msgstr "Continuar"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:207
+msgid "About the author"
+msgstr "Sobre el autor"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:212
+msgid "My name is <strong>Jonatan Jumbert</strong>, I am SEO professional and a web developer who enjoys to take on new projects. If do you want know more about me you can check out my <a href=\"https://plus.google.com/u/0/+JonatanJumbert/posts\" titlte=\"Author Google+ profile\" target=\"_blank\">Google+ profile</a> or me <a href=\"http://jonatanjumbert.com?utm_source=Wordpress&utm_medium=Plugin&utm_term=Template%20SEO%20Checker&utm_campaign=Wordpress%20plugins\" target=\"_blank\" title=\"Author site\">personal site</a>."
+msgstr "Me llamo <strong>Jonatan Jumbert</strong>, soy un profesional SEO, desarrollador web y amante del márketing digital que le encanta participar en nuevos proyectos. Si quieres saber más sobre mi, no dudes en darle un vistazo a mi perfil de <a href=\"https://plus.google.com/u/0/+JonatanJumbert/posts\" titlte=\"Perfil de Jonatan Jumbert\" target=\"_blank\">Google+</a> o en <a href=\"http://jonatanjumbert.com?utm_source=Wordpress&utm_medium=Plugin&utm_term=Template%20SEO%20Checker&utm_campaign=Wordpress%20plugins\" target=\"_blank\" title=\"Página web personal\">mi sitio web personal</a>."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:212
+msgid "Do you wanna hire me?"
+msgstr "¿Quieres contratarme?"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:215
+msgid "Make a donation"
+msgstr "Haz un donación"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:219
+msgid "Do you like this plugin? Why don't contribute with a little donation?"
+msgstr "¿Te gusta el plugin? ¿Porqué no contribuyes con una pequeña donación?"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:220
+msgid "Make author happy and pay him something"
+msgstr "Haz feliz al autor e invítale a algo"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:228
+msgid "Pay a coffee - &dollar;1,00 USD"
+msgstr "Pay a coffee - &dollar;1,00 USD"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:229
+msgid "Pay a beer - &dollar;2,00 USD"
+msgstr "Pay a beer - &dollar;2,00 USD"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:230
+msgid "Pay a snack - &dollar;3,00 USD"
+msgstr "Pay a snack - &dollar;3,00 USD"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:231
+msgid "Pay a drink - &dollar;5,00 USD"
+msgstr "Pay a drink - &dollar;5,00 USD"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:232
+msgid "Pay the cinema - &dollar;10,00 USD"
+msgstr "Pay the cinema - &dollar;10,00 USD"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:237
+msgid "Pay a coffee - 1&euro;"
+msgstr "Un café - 1,00&euro;"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:238
+msgid "Pay a beer - 2&euro;"
+msgstr "Una cerveza - 2,00&euro;"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:239
+msgid "Pay a snack - 3&euro;"
+msgstr "Unas bravas - 3,00&euro;"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:240
+msgid "Pay a drink - 5&euro;"
+msgstr "Una copa - 5,00&euro;"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:241
+msgid "Pay the cinema - 10&euro;"
+msgstr "Un cine - 10,00&euro;"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:245
+msgid "donate_en.gif"
+msgstr "donate_en.gif"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:245
+msgid "PayPal - The safer, easier way to pay online."
+msgstr "Paypal - La manera más segura y fácil de pagar online."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:247
+msgid "You can follow me on"
+msgstr "Me puedes seguir en"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:249
+msgid "View Jonatan Jumbert's personal blog"
+msgstr "Ver el blog personal de Jonatan Jumbert"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:250
+msgid "Follow me on my blog"
+msgstr "Visita mi blog"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:252
+msgid "View Jonatan Jumbert's Google+ profile"
+msgstr "Ver el perfil de Google+ de Jonatan Jumbert"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:253
+msgid "Follow me on Google+"
+msgstr "Sígueme en Google+"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:255
+msgid "View Jonatan Jumbert's Linkedin profile"
+msgstr "Ver el perfil en Linkedin de Jonatan Jumbert"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:256
+msgid "Follow me on Linkedin"
+msgstr "Sígueme en Linkedin"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:258
+msgid "View Jonatan Jumbert's Twitter profile"
+msgstr "Ver el perfil en Twitter de Jonatan Jumbert"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:259
+msgid "Follow me on Twitter"
+msgstr "Sígueme en Twitter"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:261
+msgid "View Jonatan Jumbert's Facebook profile"
+msgstr "Ver el perfil en Facebook de Jonatan Jumbert"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:262
+msgid "Follow me on Facebook"
+msgstr "Sígueme en Facebook"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:294
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:295
+msgid "No urls have been checked yet"
+msgstr "No se ha comprobado ningua URL todavía"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:299
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:338
+msgid "Template SEO score"
+msgstr "Puntuación SEO de la plantilla"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:304
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:305
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:343
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:344
+msgid "Recalc SEO score for current wordpress template"
+msgstr "Recalcular la puntuación SEO de la plantilla actual"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:315
+msgid "No SEO friendly"
+msgstr "No optimizada para SEO"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:316
+msgid "Your template looks like trash speaking in SEO terms."
+msgstr "Parece que tu plantilla es un auténtico desastre en hablando en términos SEO."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:318
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:322
+msgid "I hope you did not pay for this theme. Because it's not SEO friendly and a lot of things can be done better."
+msgstr "Espero que no hayas pagado ni un euro por esta plantilla. Porqué no está para nada optimizada en términos SEO ya que muchas cosas se pueden mejorar y corregir."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:320
+msgid "It could be better"
+msgstr "Podría estar mejor"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:321
+msgid "Your template it's not all SEO frendly as it could be."
+msgstr "Tu plantilla no está todo lo optimizada para SEO que podría estar."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:324
+msgid "Nice! Your template is SEO friendly"
+msgstr "Bien! Tu plantilla está optimizada para SEO."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:325
+msgid "Nice! Your template is SEO friendly."
+msgstr "Bien! Tu plantilla está optimizada para SEO."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:326
+msgid "Well done! Your template is SEO friendly. But, you should take care about some points because you can improve even more you SEO onsite."
+msgstr "¡Genial! Tu plantilla esta optimizada para SEO. Pero, deberías tener en cuenta algunos factores porqué puedes mejorar aún más tu SEO On page."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:328
+msgid "Awesome! Your template is ready for SEO"
+msgstr "¡Increíble! Tu plantilla esta optimizada para SEO"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:329
+msgid "Absolutely awesome! Your SEO onsite looks perfect."
+msgstr "Fantástico! El SEO On page de tu web está perfecto."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:330
+msgid "Absolutely awesome! Seems like your template is ready for SEO. Your SEO onsite looks perfect. Don't forget check all urls as you can in order to have accurate results."
+msgstr "¡Tremendamente bien! Parece que tu plantilla de Wordpress está optimizada para SEO. El SEO On page de tu web está perfecto, pero no olvides comprobar todas las URL que puedas para tener unos resultados más precisos."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:334
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:378
+msgid "Last time checked on"
+msgstr "Última comprobación el"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:335
+#, php-format
+msgid "Report based on <strong>%s</strong> urls checked"
+msgstr "Informe basado en <strong>%s</strong> urls comprobadas"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:356
+msgid "homepage"
+msgstr "Página principal"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:356
+msgid "Is your homepage good enough for SEO?"
+msgstr "¿Tu página principal esta optimizada para SEO?"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:360
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/libraries/wp_tables.php:52
+msgid "URL"
+msgstr "URL"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:361
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/libraries/wp_tables.php:53
+msgid "Test date"
+msgstr "Fecha de comprobación"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:362
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:412
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:485
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/libraries/wp_tables.php:54
+msgid "SEO Score"
+msgstr "Puntuación SEO"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:363
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/libraries/wp_tables.php:55
+msgid "Improvement"
+msgstr "Mejora"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:375
+msgid "No tested yet"
+msgstr "Aún no se ha comprobado"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:400
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:401
+msgid "Recalc SEO score for your homepage template"
+msgstr "Recalcular puntuación SEO para la página principal de la plantilla"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:411
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:485
+msgid "Factor"
+msgstr "Factor"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:413
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:485
+msgid "Comments"
+msgstr "Comentarios"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_config_page_controller.php:477
+msgid "SEO Summary for:"
+msgstr "Resumen SEO para:"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:200
+msgid "Looks like <strong>your template is blocking access to robots</strong>. Your page won't be indexed at Google. No one will see your page at <abbr title=\"Search Engine Result Pages\">SERP</abbr> when searches something at Google that you wrote about."
+msgstr "Parece que <strong>estás bloqueando el acceso a los robots de los buscadores para que no indexen tu página</strong>. Como resultado, nadie verá aparecer tu página en los buscadores cuando busque algo sobre lo que escribes."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:221
+msgid "<strong>Perfect</strong>! no inline styles were found at current URL."
+msgstr "¡<strong>Perfecto</strong>! No he encontrado ningún estilo en línea en la URL que acabas de analizar."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:225
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:229
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:233
+msgid "<strong>Well!</strong> a few inline styles were found at current URL."
+msgstr "<strong>¡Vaya!</strong> parece que en la página que acabas de analizar aparece algún que otro estilo en línea."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:237
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:241
+msgid "<strong>Oops!</strong> there were found inline styles at current URL. To optimize your page try to include these styles in your CSS."
+msgstr "<strong>OOppps!</strong> parece que la página analizada usa unos cuantos estilos en línea. Para optimizar trata de incluir estos estilos en tus CSS."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:245
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:249
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:253
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:257
+msgid "<strong>Ooppps!</strong> too much inline styles found at current URL.To optimize your page try to include these styles in your CSS."
+msgstr "<strong>OOoopppps!</strong> demasiados estilos en línea existen en la URL actual. Para optimizar trata de incluir estos estilos en tus CSS."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:261
+msgid "That's <strong>Incredible!</strong> Do you know about CSS? Your current URL is full of inline styles. You must put it on external CSS files, please do it."
+msgstr "¡<strong>Me parece increíble</strong>! ¿Sabes algo de CSS? Lo digo porqué la URL que se acaba de analizar esta repleta de estilos en línea (eso es malo). Debes incluirlos en un fichero externo de CSS, por favor... hazlo!"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:279
+#, php-format
+msgid "<strong>%d</strong> &lt;h1&gt; tags were found."
+msgstr "Se han encontrado <strong>%d</strong> &lt;h1&gt;."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:280
+#, php-format
+msgid "<strong>%d</strong> &lt;h2&gt; tags were found."
+msgstr "Se han encontrado <strong>%d</strong> &lt;h2&gt;."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:281
+#, php-format
+msgid "<strong>%d</strong> &lt;h3&gt; tags were found."
+msgstr "Se han encontrado <strong>%d</strong> &lt;h3&gt;."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:282
+#, php-format
+msgid "<strong>%d</strong> &lt;h4&gt; tags were found."
+msgstr "Se han encontrado <strong>%d</strong> &lt;h4&gt;."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:283
+#, php-format
+msgid "<strong>%d</strong> &lt;h5&gt; tags were found."
+msgstr "Se han encontrado <strong>%d</strong> &lt;h5&gt;."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:284
+#, php-format
+msgid "<strong>%d</strong> &lt;h6&gt; tags were found."
+msgstr "Se han encontrado <strong>%d</strong> &lt;h6&gt;."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:289
+msgid "Current page's doctype is not HTML5, this means that your page can't have more than &lt;h1&gt; tag. Please, fix it."
+msgstr "El doctype de la página actual no está definido en HTML5 y por lo tanto no puede haber más de un &lt;h1&gt;. Por favor, corrígelo."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:292
+msgid "No &lt;h1&gt; tag was found at current URL."
+msgstr "No se ha definido ningún &lt;h1&gt; para la URL actual."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:295
+msgid "No heading tags were found at current URL. You can check the importance of these tags at <a href=\"wp-admin/admin.php?page=template-seo-checker&viewfaq=1\">FAQ page</a>."
+msgstr "No se han encontrado etiquetas de encabezado en la URL actual. Puedes descubrir la importancia de estas etiquetas en la página de <a href=\"wp-admin/admin.php?page=template-seo-checker&viewfaq=1\">preguntas frecuentes</a>."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:298
+msgid "Excessive number of &lt;h2&gt; tags were found."
+msgstr "Se ha encontrado un número excesivo de etiquetas &lt;h2&gt;."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:301
+msgid "Excessive number of &lt;h3&gt; tags were found."
+msgstr "Se ha encontrado un número excesivo de etiquetas &lt;h3&gt;."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:304
+msgid "Excessive number of heading tags were found."
+msgstr "Se ha encontrado un uso excesivo de etiquetas de encabezado."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:311
+msgid "Check your headings tags for current URL, you're including tags in wrong order (for example you are using &lt;h5&gt; without using &lt;h4&gt;)"
+msgstr "Verifica las etiquetas de encabezado para la URL actual, estás usando etiquetas en orden incorrecto (por ejemplo estás usando &lt;h5&gt; sin usar &lt;h4&gt;)"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:325
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:329
+msgid "Perfect, the size in Kb of images for current URL is lower than 150Kb."
+msgstr "Perfecto, el tamaño en Kb de las imágenes de la URL actual está por debajo de 150Kb."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:333
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:337
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:341
+msgid "The size in Kb of images for current URL it's pretty good."
+msgstr "El tamaño en Kb de las imágenes de la URL actual es bastante bueno."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:345
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:349
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:353
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:357
+msgid "The size in Kb of images for current URL it's above 500Kb. Try to reduce it."
+msgstr "El tamaño en Kb de las imágenes de la URL actual está por encima de los 500Kb. Trata de reducir el peso de tus imágenes."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:361
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:365
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:369
+msgid "The size in Kb of images for current URL it's above 800Kb. Try to reduce it, your SEO score can be affected."
+msgstr "El tamaño en Kb de las imágenes de la URL actual está por encima de los 800Kb. Trata de reducir el peso de tus imágenes, la puntuación SEO de esta página se verá gravemente afectada."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:384
+msgid "Your theme is including five CSS files. Can you reduce it?"
+msgstr "Tu plantilla está incluyendo hasta 5 ficheros CSS. ¿Puedes reducirlo?"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:388
+msgid "Your theme is including 6-8 CSS files. Can you reduce it?"
+msgstr "Tu plantilla está incluyendo entre 6 y 8 ficheros CSS. ¿Puedes reducirlo?"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:392
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:396
+msgid "Your theme is including too much CSS files. Are you using too many plugins maybe?"
+msgstr "Tu plantilla está incluyendo demasiados ficheros CSS. ¿Tal vez estás usando demasiados plugins?"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:400
+msgid "Your theme is including insane amount of CSS files. Fix it now."
+msgstr "Tu plantilla está usando una cantidad brutal de ficheros CSS. Deberías corregir esto inmediatamente."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:415
+msgid "Your teme is including five JS files. Can you reduce it?"
+msgstr "Tu plantilla está incluyendo hasta 5 ficheros JS. ¿Puedes reducirlo?"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:419
+msgid "Your theme is including 6-8 JS files. Can you reduce it?"
+msgstr "Tu plantilla está incluyendo entre 6 y 8 ficheros JS. ¿Puedes reducirlo?"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:423
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:427
+msgid "Your theme is including too much JS files. Are you using too many plugins maybe?"
+msgstr "Tu plantilla está incluyendo demasiados ficheros JS. ¿Tal vez estás usando demasiados plugins?"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:431
+msgid "Your theme is including insane amount of JS files. Fix it now."
+msgstr "Tu plantilla está usando una cantidad brutal de ficheros JS. Deberías corregir esto inmediatamente."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:442
+msgid "Your theme has not &lt;title&gt; tag or is empty."
+msgstr "Tu plantilla no tiene etiqueta &lt;title&gt; o esta está vacía."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:446
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:450
+msgid "Your &lt;title&gt; tag is too short."
+msgstr "La etiqueta &lt;title&gt; es demasiado corta."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:460
+msgid "Your &lt;title&gt; tag is too long."
+msgstr "La etiqueta &lt;title&gt; es demasiado larga."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:471
+msgid "Meta name description tag is empty."
+msgstr "La etiqueta meta name description está vacía."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:475
+msgid "Meta name description tag is too short."
+msgstr "La etiqueta meta name description es demasiado corta."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:485
+msgid "Meta name description tag is too long."
+msgstr "La etiqueta meta name description es demasiado larga."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:497
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:501
+msgid "Perfect, the size in Kb of CSS files for current URL is lower than 150Kb."
+msgstr "Perfecto, el tamaño en Kb de los ficheros CSS de la URL actual está por debajo de 150Kb."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:505
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:509
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:513
+msgid "The size in Kb of CSS files for current URL it's pretty good."
+msgstr "El tamaño en Kb de los ficheros CSS de la URL actual es bastante bueno."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:517
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:521
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:525
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:529
+msgid "The size in Kb of CSS files for current URL it's above 500Kb. Try to reduce it."
+msgstr "El tamaño en Kb de los ficheros CSS  de la URL actual está por encima de los 500Kb. Trata de reducir el peso de tus CSS."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:533
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:537
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:541
+msgid "The size in Kb of CSS files for current URL it's above 800Kb. Try to reduce it, your SEO score can be affected."
+msgstr "El tamaño en Kb de los ficheros CSS de la URL actual está por encima de los 800Kb. Trata de reducir el peso de tus CSS, la puntuación SEO de esta página se verá gravemente afectada."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:552
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:556
+msgid "Perfect, the size in Kb of JS files for current URL is lower than 150Kb."
+msgstr "Perfecto, el tamaño en Kb de los ficheros JS de la URL actual está por debajo de 150Kb."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:560
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:564
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:568
+msgid "The size in Kb of JS files for current URL it's pretty good."
+msgstr "El tamaño en Kb de los ficheros JS de la URL actual es bastante bueno."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:572
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:576
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:580
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:584
+msgid "The size in Kb of JS files for current URL it's above 500Kb. Try to reduce it."
+msgstr "El tamaño en Kb de los ficheros JS de la URL actual está por encima de los 500Kb. Trata de reducir el peso de tus javascripts."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:588
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:592
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:596
+msgid "The size in Kb of JS files for current URL it's above 800Kb. Try to reduce it, your SEO score can be affected."
+msgstr "El tamaño en Kb de los ficheros JS de la URL actual está por encima de los 800Kb. Trata de reducir el peso de tus javascripts, la puntuación SEO de esta página se verá gravemente afectada."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:608
+msgid "Perfect, no links without title were found."
+msgstr "Perfecto, no se han encontrado enlaces sin el atributo title."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:612
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:616
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:620
+msgid "Pretty good, just a few links without title were found."
+msgstr "Bastante bien, unos pocos enlaces no tienen el atributo title."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:624
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:628
+msgid "A few number of links without title were found. Try to fix it to improve your SEO score."
+msgstr "He encontrado algunos enlaces que no implementan el atributo title. Arregla esto para mejorar tu puntuación SEO."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:632
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:636
+msgid "You should include attribute title for all your links to get a best SEO score."
+msgstr "Deberías incluir el atributo title para todos tus enlaces para obtener una mejor puntuación SEO."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:640
+msgid "You must include attribute title for all your links. You can rank better if you do."
+msgstr "Tienes que incluir el atributo title a todos tus enlaces. Si lo haces posicionarás mejor."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:653
+msgid "Perfect, no images without alt were found."
+msgstr "Perfecto, no se han encontrado imágenes sin el atributo alt."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:657
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:661
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:665
+msgid "Pretty good, just a few images without alt were found."
+msgstr "Bastante bien, unas pocas imágenes no tienen el atributo alt."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:669
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:673
+msgid "A few number of images without alt were found. Try to fix it to improve your SEO score."
+msgstr "He encontrado algunas imágenes que no implementan el atributo alt. Arregla esto para mejorar tu puntuación SEO."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:677
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:681
+msgid "You should include attribute alt for all your images to get a best SEO score."
+msgstr "Deberías incluir el atributo alt para todas tus imágenes para obtener una mejor puntuación SEO."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:685
+msgid "You must include attribute alt for all your images. You can rank better if you do."
+msgstr "Tienes que incluir el atributo alt a todas tus imágenes. Si lo haces posicionarás mejor."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:732
+msgid "Perfect, no images without height and width attributes were found."
+msgstr "Perfecto, no se han encontrado imágenes sin los atributos height y width."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:736
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:740
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:744
+msgid "Pretty good, just a few images without alt height and width attributes found."
+msgstr "Bastante bien, unas pocas imágenes no tienen el atributo height ni width."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:748
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:752
+msgid "A few number of images without height and width attributes were found. Try to fix it to improve your SEO score."
+msgstr "He encontrado algunas imágenes que no implementan el atributo height ni width. Arregla esto para mejorar tu puntuación SEO."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:756
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:760
+msgid "You should include attribute height and width attributes for all your images to get a best SEO score."
+msgstr "Deberías incluir el atributo height y width para todas tus imágenes para obtener una mejor puntuación SEO."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/controllers/jja_tsc_main_functions.php:764
+msgid "You must include attribute height and width for all your images. You can rank better if you do."
+msgstr "Tienes que incluir el atributo height y width a todas tus imágenes. Si lo haces posicionarás mejor."
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/libraries/wp_tables.php:99
+msgid "View SEO summary"
+msgstr "Ver el resumen SEO"
+
+#: D:\dropbox\wordpressplugins\wp-content\plugins\template-seo-checker/core/libraries/wp_tables.php:106
+msgid "Recalc SEO score for current URL"
+msgstr "Recalcular puntuación SEO para esta URL"
+
+#~ msgid "js_size"
+#~ msgstr "Tamaño de los Javascripts"
+
+#~ msgid "html5_ready"
+#~ msgstr "Compatible con HTML5"
+
+#~ msgid "css_size"
+#~ msgstr "Tamaño de los CSS"
+
+#~ msgid "number_css"
+#~ msgstr "Número de CSS"
+
+#~ msgid "number_js"
+#~ msgstr "Número de Javascripts"
+
+#~ msgid "tsc_robots_noindex"
+#~ msgstr ""
+#~ "Parece que <strong>estás bloqueando el acceso a los robots de los "
+#~ "buscadores para que no indexen tu página</strong>. Como resultado, nadie "
+#~ "verá aparecer tu página en los buscadores cuando busque algo sobre lo que "
+#~ "escribes."
+
+#~ msgid "tsc_inline_styles_none"
+#~ msgstr ""
+#~ "¡<strong>Perfecto</strong>! No he encontrado ningún estilo en línea en la "
+#~ "URL que acabas de analizar."
+
+#~ msgid "tsc_inline_styles_few"
+#~ msgstr ""
+#~ "<strong>¡Vaya!</strong> parece que en la página que acabas de analizar "
+#~ "aparece algún que otro estilo en línea."
+
+#~ msgid "tsc_inline_styles_a_bit"
+#~ msgstr ""
+#~ "<strong>OOppps!</strong> parece que la página analizada usa unos cuantos "
+#~ "estilos en línea. Para optimizar trata de incluir estos estilos en tus "
+#~ "CSS."
